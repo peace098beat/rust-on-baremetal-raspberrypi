@@ -12,4 +12,3 @@ rustup component add clippy-preview --toolchain=nightly
 ```
 
 
-tt
